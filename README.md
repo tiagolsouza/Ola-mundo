@@ -1,3 +1,3 @@
 # Olá, mundo!!
- my first repository
- Aprendendo com Curso em video!
+my first repository
+Aprendendo com Curso em video!
